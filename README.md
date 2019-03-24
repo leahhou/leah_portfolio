@@ -102,121 +102,147 @@ website link: https://leahhou.github.io/
 * 1981 – The National Science Foundation releases CSNET 56 to allow computers to  
    network without being connected to the government networks.
 
-1983 – Internet Activities Board released.
+* 1983 – Internet Activities Board released.
 
-1983 – TCP/IP becomes the standard for internet protocol.
+* 1983 – TCP/IP becomes the standard for internet protocol.
 
-1983 – Domain Name System introduced to allow domain names to automatically be assigned an IP number.
+* 1983 – Domain Name System introduced to allow domain names to automatically be assigned an IP number.
 
-1984 – MCI creates T1 lines to allow for faster transportation of information over the internet.
+* 1984 – MCI creates T1 lines to allow for faster transportation of information over the internet.
 
-1984- The number of Hosts breaks 1,000
+* 1984- The number of Hosts breaks 1,000
 
-1985- 100 years to the day of the last spike being driven on the Canadian Pacific Railway, the last Canadian university was connected to NetNorth in a one year effort to have coast-to-coast connectivity
+ * 1985- 100 years to the day of the last spike being driven on the Canadian Pacific Railway, the last Canadian university was connected to NetNorth in a one year effort to have coast-to-coast connectivity
 
-1987 – The new network CREN forms.
+ * 1987 – The new network CREN forms.
 
-1987- The number of hosts breaks 10,000
+ * 1987- The number of hosts breaks 10,000
 
-1988 – Traffic rises and plans are to find a new replacement for the T1 lines.
+ * 1988 – Traffic rises and plans are to find a new replacement for the T1 lines.
 
-1989- The Number of hosts breaks 100 000
+ * 1989- The Number of hosts breaks 100 000
 
-1989- Arpanet ceases to exist
+ * 1989- Arpanet ceases to exist
 
-1990 – Advanced Network & Services (ANS) forms to research new ways to make internet speeds even faster. The group develops the T3 line and installs in on a number of networks.
+ * 1990 – Advanced Network & Services (ANS) forms to research new ways to make internet speeds even faster. The group develops the T3 line and installs in on a number of networks.
 
-1990 – A hypertext system is created and implemented by Tim Berners-Lee while working for CERN.
+ * 1990 – A hypertext system is created and implemented by Tim Berners-Lee while working for CERN.
 
-1990- The first search engine is created by McGill University, called the Archie Search Engine
+ * 1990- The first search engine is created by McGill University, called the Archie Search Engine
 
-1991- U.S green-light for commercial enterprise to take place on the Internet
+ * 1991- U.S green-light for commercial enterprise to take place on the Internet
 
-1991 – The National Science Foundation (NSF) creates the National Research and Education Network (NREN).
+ * 1991 – The National Science Foundation (NSF) creates the National Research and Education Network (NREN).
 
-1991 – CERN releases the World Wide Web publicly on August 6th, 1991
+ * 1991 – CERN releases the World Wide Web publicly on August 6th, 1991
 
-1992  The Internet Society (ISOC) is chartered
+ * 1992  The Internet Society (ISOC) is chartered
 
-1992- Number of hosts breaks 1,000,000
+ * 992- Number of hosts breaks 1,000,000
 
-1993 – InterNIC released to provide general services, a database and internet directory.
+ * 1993 – InterNIC released to provide general services, a database and internet directory.
 
-1993- The first web browser, Mosaic (created by NCSA), is released. Mosaic later becomes the Netscape browser which was the most popular browser in the mid 1990’s.
+ * 1993- The first web browser, Mosaic (created by NCSA), is released. Mosaic later becomes the Netscape browser which was the most popular browser in the mid 1990’s.
 
-1994 – New networks added frequently.
+ * 1994 – New networks added frequently.
 
-1994 – First internet ordering system created by Pizza Hut.
+ * 1994 – First internet ordering system created by Pizza Hut.
 
-1994 – First internet bank opened: First Virtual.
+ * 1994 – First internet bank opened: First Virtual.
 
-1995 – NSF contracts out their access to four internet providers.
+ * 1995 – NSF contracts out their access to four internet providers.
 
-1995 – NSF sells domains for a $50 annual fee.
+ * 1995 – NSF sells domains for a $50 annual fee.
 
-1995  Netscape goes public with 3rd largest ever NASDAQ IPO share value
+ * 1995  Netscape goes public with 3rd largest ever NASDAQ IPO share value
 
-1995- Registration of domains is no longer free.
+ * 1995- Registration of domains is no longer free.
 
-1996- The WWW browser wars are waged mainly between Microsoft and Netscape. New versions are released quarterly with the aid of internet users eager to test new (beta) versions.
+ * 1996- The WWW browser wars are waged mainly between Microsoft and Netscape. New versions are released quarterly with the aid of internet users eager to test new (beta) versions.
 
-1996  Internet2 project is initiated by 34 universities
+ * 1996  Internet2 project is initiated by 34 universities
 
-1996 – Internet Service Providers begin appearing such as Sprint and MCI.
+ * 1996 – Internet Service Providers begin appearing such as Sprint and MCI.
 
-1996 – Nokia releases first cell phone with internet access.
+ * 1996 – Nokia releases first cell phone with internet access.
 
-1997- (Arin) is established to handle administration and registration of IP numbers, now handled by Network Solutions (IinterNic)
+ * 1997- (Arin) is established to handle administration and registration of IP numbers, now handled by Network Solutions (IinterNic)
 
-1998- Netscape releases source code for Navigator.
+ * 1998- Netscape releases source code for Navigator.
 
-1998-Internet Corporation for Assigned Names and Numbers (ICANN) created to be able to oversee a number of Internet-related tasks
+ * 1998-Internet Corporation for Assigned Names and Numbers (ICANN) created to be able to oversee a number of Internet-related tasks
 
-1999 – A wireless technology called 802.11b, more commonly referred to as Wi-Fi, is standardized.
+ * 1999 – A wireless technology called 802.11b, more commonly referred to as Wi-Fi, is standardized.
 
-2000- The dot com bubble bursts, numerically, on March 10, 2000, when the technology heavy NASDAQ composite index peaked at 5,048.62
+ * 2000- The dot com bubble bursts, numerically, on March 10, 2000, when the technology heavy NASDAQ composite index peaked at 5,048.62
 
-2001 – Blackberry releases first internet cell phone in the United States.
+ * 2001 – Blackberry releases first internet cell phone in the United States.
 
-2001  The spread of P2P file sharing across the Internet
+ * 2001  The spread of P2P file sharing across the Internet
 
-2002 -Internet2 now has 200 university, 60 corporate and 40 affiliate members
+ * 2002 -Internet2 now has 200 university, 60 corporate and 40 affiliate members
 
-2003- The French Ministry of Culture bans the use of the word “e-mail” by government ministries, and adopts the use of the more French sounding “courriel”
+ * 2003- The French Ministry of Culture bans the use of the word “e-mail” by government ministries, and adopts the use of the more French sounding “courriel”
 
-2004  The Term Web 2.0 rises in popularity when O’Reilly and MediaLive host the first Web 2.0 conference.
+ * 2004  The Term Web 2.0 rises in popularity when O’Reilly and MediaLive host the first Web 2.0 conference.
 
-2004- Mydoom, the fastest ever spreading email computer worm is released. Estimated 1 in 12 emails are infected.
+ * 2004- Mydoom, the fastest ever spreading email computer worm is released. Estimated 1 in 12 emails are infected.
 
-2005- Estonia offers Internet Voting nationally for local elections
+ * 2005- Estonia offers Internet Voting nationally for local elections
 
-2005-Youtube launches
+ * 2005-Youtube launches
 
-2006- There are an estimated 92 million websites online
+ * 2006- There are an estimated 92 million websites online
 
-2006  Zimbabwe’s internet access is almost completely cut off after international satellite communications provider Intelsat cuts service for non-payment
+ * 2006  Zimbabwe’s internet access is almost completely cut off after international satellite communications provider Intelsat cuts service for non-payment
 
-2006- Internet2 announced a partnership with Level 3 Communications to launch a brand new nationwide network, boosting its capacity from 10Gbps to 100Gbps
+ * 2006- Internet2 announced a partnership with Level 3 Communications to launch a brand new nationwide network, boosting its capacity from 10Gbps to 100Gbps
 
-2007- Internet2 officially retires Abilene and now refers to its new, higher capacity network as the Internet2 Network
+ * 2007- Internet2 officially retires Abilene and now refers to its new, higher capacity network as the Internet2 Network
 
-2008- Google index reaches 1 Trillion URLs
+ * 2008- Google index reaches 1 Trillion URLs
 
-2008  NASA successfully tests the first deep space communications network modeled on the Internet. Using software called Disruption-Tolerant Networking, or DTN, dozens of space images are transmitted to and from a NASA science spacecraft located about more than 32 million kilometers from Earth
+ * 2008  NASA successfully tests the first deep space communications network modeled on the Internet. Using software called Disruption-Tolerant Networking, or DTN, dozens of space images are transmitted to and from a NASA science spacecraft located about more than 32 million kilometers from Earth
 
-2009  ICANN gains autonomy from the U.S government
+ * 2009  ICANN gains autonomy from the U.S government
 
-2010- Facebook announces in February that it has 400 million active users.
+ * 2010- Facebook announces in February that it has 400 million active users.
 
-2010  The U.S House of Representatives passes the Cybersecurity Enhancement Act (H.R. 4061)
+ * 2010  The U.S House of Representatives passes the Cybersecurity Enhancement Act (H.R. 4061)
 
-2012 – A major online protest shook up U.S. Congressional support for two anti-Web piracy bills – the Stop Online Piracy Act in the House and the Protect IP Act in the Senate. Many in the tech industry are concerned that the bills will give media companies too much power to shut down websites.
+ * 2012 – A major online protest shook up U.S. Congressional support for two anti-Web piracy bills – the Stop Online Piracy Act in the House and the Protect IP Act in the Senate. Many in the tech industry are concerned that the bills will give media companies too much power to shut down websites.
 
 
 
 # Relationship between domain, web servers, DNS and web browsers
-# One Contribution of internet development
+### 
+DNS – Domain Name System:
+DNS is the glue that makes the web work. It translates a name (www.InterlinkSpokane.com) to an IP address that tells which web server is hosting the website. It also tells other email servers where to send email for a domain name using what is called the MX record
+Without DNS, when someone types in www.InterlinkSpokane.com in a web browser, there is no conversion of the name to an IP address and your web browser will return an error. Even through your website may be running fine, without DNS the web browser doesn’t know where to go to get to the site.
+Hosting:
+Website hosting provides server storage space and an IP address for your website. The website on that server can then be accessed from a web browser. Your web hosting provider is who gives your website the IP address that is entered into DNS. When someone types www.InterlinkSpokane.com the web browser goes to the hosting providers web server to pull up the pages for your website that you have stored on the server.
+Registrars:
+Domain registrars register a domain and enable it’s use on the rest of the internet. There is an annual recurring cost for this service. The one and only thing this service actually provides is to tell the rest of the web which DNS server to use for your domain.
+Web hosts provide DNS hosting with web hosting accounts and will usually register domains for you at their preferred domain registrar. The upside to having your webhost provide DNS registration is typically they will renew the Domain for you each year at the registrar and send a bill with your hosting bill. So you will get nice fast reliable hosting, with friendly service, and a convenient all-in-one billing for your website and domain name needs.
 
+# One Contribution of internet development
+### Communication has also been made easier with the Internet opening up easier ways to not only keep in touch with the people you know, but to meet new people and network as well. The Internet and programs like Skype have made the international phone industry almost obsolete by providing everyone with Internet access the ability to talk to people all around the world for free instead of paying to talk via landlines. Social networking sites such as Facebook, Twitter, YouTube and LinkedIn have also contributed to a social revolution that allows people to share their lives and everyday actions and thoughts with millions.
+
+
+# Resources
+https://www.investintech.com/resources/articles/historyinternet/
+
+https://medium.com/@kswanie21/css3-animations-with-transitions-transforms-5a9c01e5efb5
+
+https://www.awwwards.com/
+
+https://www.rapidtables.com/convert/color/cmyk-to-rgb.html
+
+https://www.joomlasrilanka.com/web-design-development-blog/web-design-font-size-measurements-convert-points-pixelsems-percentages-web-designing/
+
+https://caniuse.com/
+
+https://www.youtube.com/watch?v=jV8B24rSN5o
 
 
 

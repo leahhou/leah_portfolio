@@ -11,228 +11,211 @@ website link: https://leahhou.github.io/
 
 * Setting unrealistic goals and they cannot meet their expectations
 
-# Intended users of applications
-### Inclusive to all members in general public. 
-### User friendly interface allows visually impaired and illiterate users to use the application.
+# Functionality/features
+### A digital resume
 
      
-# Possible impact of the application
-## A. Possible positive social impact
-* The application is created to help people feel positive about their accomplishment when achieving the goal
-* Equip members with useful tools to achieve their goals
-* Building a community to help eachother to achieve their goals
-
-## B. Possible misuse of Goalnut
-* The sense of community should be carefully designed for encouragement and support, and should not be used to increase unnecesarry competition.
-* Goalnut used should be correctly encouraged, rather than being criticized if they haven't achieve their goals
-* The potential for this application to be used by people who have goals that could negatively impact themselves and society in general could be cause for worry. An example of this could be the use of the application to keep track of an eating disorder.
+# Sitemap
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/SItemap.png?raw=true)
 
 
-# Major feature of the application (MVP)
-##### (Given the constraint of time to the project (2 days), we focuses on building four major features of Goalnut)
-#### Feature One: Goal Setting
-### The application allows users to set ONE goal. For example, a goal could be to "exercise more this year".
+# Screenshot of website
+### Website Version
 
-#### Feature Two: Action Setting
-### The application allows users to set : 
-* One action they would like to do to achieve their goal, such as "jogging".
-* Set the expected frequency of the action, such as "3 times a week" 
-* Set the expected duration of the action, such as "30 mins jogging" 
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/Section%201.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%202.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%202%20cont.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%203.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%203%20cont1.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%203%20cont2.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%203%20cont3.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%203%20cont4.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%204.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%205.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%205%20cont%201.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%205%20cont%202.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%206.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%206%20cont.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Website%20screenshot/section%206%20cont%202.png?raw=true)
 
-#### Feature Three: Action Logging per week
-* Log in all activities once a week, recoding times of actions executed, and duration of each action
-#### Feature Four: Track Progress and be rewarded per week
-* Calculate the percentage the users who have hit their goals. 
-* * For example, "80% of time you have run 30 mins this week" 
-* Give average of your actions. 
-* * For example, "on average, you have run 20 mins this week"
-* Give ascci donut artwork as rewards when goals achieved
-* Give encouraging words when goals haven’t been achieved
+### Mobile Version
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Mobilesite%20screenshot/section%201.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Mobilesite%20screenshot/section%202.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Mobilesite%20screenshot/section%202%20cont.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Mobilesite%20screenshot/section%202%20cont.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Mobilesite%20screenshot/section%203.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Mobilesite%20screenshot/section%203%20cont%201.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Mobilesite%20screenshot/section%203%20cont%202.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Mobilesite%20screenshot/section%204.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Mobilesite%20screenshot/section%205.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Mobilesite%20screenshot/section%205%20conti.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Mobilesite%20screenshot/section%206.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Mobilesite%20screenshot/section%206%20conti.png?raw=true)
 
-### Rationale for success/failure to meet MVP ‘main’ features:
+# Target audience
+### The target audience of the website is all potential future employer including start-up, mid-size companies and enterprise.
+# Tech stack
+* html
+* css
+* scss 
+* photoshop
+* Indesign
 
-* Feature one-->Complete : achieved
-User input for their goal has been Implemented.
+# Design documentation
+* Design Process
+### My design process start with getting inspiration from other web deverloper websites. I look into award websites and bookmarks all design I like.
+### Then I start to plan the sitemap and content I would like to create on my website
+### I screenshot all individual elements I like about from each websites and organise them by their element names in my moodbord folder
+### Then I start to draw my website wireframe
+### I use Indesign to create a hi-fi version of my design for both website and mobile
+### I change and update the hi-fi version until i am happy with the final design for both website and mobile.
+### Here are some screenshot to show my design process
+* moodboard organise
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Moodboard.png?raw=true)
+* my initial planning of website structure
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/web%20content%20design.png?raw=true)
+* my wireframe for website version
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Wireframe%201.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Wireframe%202.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Wireframe%203.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Wireframe%204.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Wireframe%205.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Wireframe%206.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Wireframe%207.png?raw=true)
+* my hi-fi version for website and mobile
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Hi-fi%20Markup.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Hi-fi%20Markup%202.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Hi-fi%20Markup%203.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Hi-fi%20Markup%204.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Hi-fi%20Markup%205.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Hi-fi%20Markup%206.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Hi-fi%20Markup%207.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Hi-fi%20Markup%208.png?raw=true)
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Design%20Process/Hi-fi%20Markup%209.png?raw=true)
 
+# Project Management
+### I used trello to manage my projects.
+![alt text](https://github.com/leahhou/leah_portfolio/blob/master/Trello%20screenshot.png?raw=true)
+ 
 
-* Feature two-->Complete: achieved
-User input for action has been implemented.
-User input for expected frequency has been implemented.
-User input for expected duration has been implemented.
+# Key event in internet from 1980s
+* 1981 – The National Science Foundation releases CSNET 56 to allow computers to  
+   network without being connected to the government networks.
 
-* Feature Three-->Incomplete:
-Saving and loading files has not been implemented due to time constraints, this has led to tracking user input over larger time frames impractical. This feature will have to be pushed to the backlog until saving and loading has been added.
+1983 – Internet Activities Board released.
 
-* Feature Four-->Complete: 
-Printing of ascii art reward has been implemented.
-Outputting encouragement to user that did not achieve their goal has been implemented.
-Outputting average and percentage of goal has been implemented.
+1983 – TCP/IP becomes the standard for internet protocol.
 
+1983 – Domain Name System introduced to allow domain names to automatically be assigned an IP number.
 
-# Additional features of the application
-* Files load/save: the users log out and their previous inputs are saved
-* Set multiple goals 
-* Set multiple actions to achieve their goals. For example, setting swimming, jogging and gym towards the goal:exercise more
-* Set the period they would like to compare their actions
-* Be able to keep track for a month, or a quarter or a year
-* Reminder functions: sending automatic emails to remind logging in their actions
-* Use text to speech to allow visually impaired and illiterate users to use app.
-* Application users would be able to connect with each other and share their experience
-* Applications users can support each other and share tips in achieving their goals
+1984 – MCI creates T1 lines to allow for faster transportation of information over the internet.
 
-# Instructions for use
-1. Download Goalnut Application to your computer
-2. Open Terminal 
-3. Open goalnut ruby file
-4. Follow the prompts to enter goals, actions and track progress
-5. Exit Terminal 
+1984- The number of Hosts breaks 1,000
 
-# Screenshot of application
+1985- 100 years to the day of the last spike being driven on the Canadian Pacific Railway, the last Canadian university was connected to NetNorth in a one year effort to have coast-to-coast connectivity
 
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%201.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%202.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%203.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%204.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%205.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%206.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%207.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%208.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%209.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%2010.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%2011.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%2012.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Goalnut%2013.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Success_final.png?raw=true)
+1987 – The new network CREN forms.
 
+1987- The number of hosts breaks 10,000
 
+1988 – Traffic rises and plans are to find a new replacement for the T1 lines.
 
-## Details of design & planning process
+1989- The Number of hosts breaks 100 000
 
-# Initial Brainstorming
-Initially, we each wrote two ideas for a terminal application onto a page. After stating our ideas, we went through the potential for each idea and the challenges we would face through their development.
+1989- Arpanet ceases to exist
 
+1990 – Advanced Network & Services (ANS) forms to research new ways to make internet speeds even faster. The group develops the T3 line and installs in on a number of networks.
 
-# Ideations for app:
-#### IDEA ONE: PET MONITOR APP.
+1990 – A hypertext system is created and implemented by Tim Berners-Lee while working for CERN.
 
-* Track Food consumed.
-* Track excersize.
-* Calculate Dietry requirements.
-* Generate a 'BMI' for the users pet.
-* Inform the user if their pet is unhealthy.
+1990- The first search engine is created by McGill University, called the Archie Search Engine
 
-#### IDEA TWO: GOAL APP.
+1991- U.S green-light for commercial enterprise to take place on the Internet
 
-* List of goals.
-* Aspirations.
-* Reviewing goals.
-* Offer fun reward for user when successful.
-* Offer Encouragement for user when unsuccessful.
+1991 – The National Science Foundation (NSF) creates the National Research and Education Network (NREN).
 
-#### IDEA THREE: SHOPPING LIST APP.
+1991 – CERN releases the World Wide Web publicly on August 6th, 1991
 
-* Takes user entry.
-* Stores the entry into a list.
-* Allows the user to modify list.
-* - Delete items.
-* - Add items.
-* - Adjust quantities. 
+1992  The Internet Society (ISOC) is chartered
 
-#### IDEA FOUR: TRANSPORTATION
-* Record user data
-* Track the total time spent on transport
-* Track average daily dollar amount spent on transport.
-* Return the total time spent on transport for a period.
-* Return the total dollar amount the user spends per period.
+1992- Number of hosts breaks 1,000,000
 
+1993 – InterNIC released to provide general services, a database and internet directory.
 
-# Project Selection: GOAL APP
+1993- The first web browser, Mosaic (created by NCSA), is released. Mosaic later becomes the Netscape browser which was the most popular browser in the mid 1990’s.
 
-After brainstorming general ideas, we then gave each idea a ranking of '1 - 4' with '1' being the idea we wished to work on the most.
-The idea with the lowest score would be the project we chose to develop further.
+1994 – New networks added frequently.
 
-## Further planning and devlopment.
+1994 – First internet ordering system created by Pizza Hut.
 
-After deciding to move forward with the goal application we then took the elements we wished to implement and split them up into features that would be necessary for the minimum viable product( the 'MVP') and features that we considered extras(the 'sprinkles') and not needed for initial deployment.
+1994 – First internet bank opened: First Virtual.
 
-##### Trello Screenshot:
+1995 – NSF contracts out their access to four internet providers.
 
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Trello%202%20.png?raw=true)
+1995 – NSF sells domains for a $50 annual fee.
 
-#### MVP Features:
-* User input
-* User Goals
-* Level of goals
-* Time spent on task/action
-* Reward for achieveing goal
+1995  Netscape goes public with 3rd largest ever NASDAQ IPO share value
 
-#### Sprinkles
-* Interactive Menu
-* File loading and saving
-* Tracking a goal over large time frames
-* Ascii art for a reward.
-* email reminder for entering goals
-* track multiply goals at a time
+1995- Registration of domains is no longer free.
 
-# Project plan and timeline.
+1996- The WWW browser wars are waged mainly between Microsoft and Netscape. New versions are released quarterly with the aid of internet users eager to test new (beta) versions.
 
-After assigning each feature to either MVP or Sprinkles, we were able to prioritise features and elements for the devlopment process. This can be seen from the organisational structure of our feature and todo trello boards.
-By moving features between testing and developing cards, on trello, we were able to bring all elements together in an iterative process that allowed for review and adaption through all stages of the project.
+1996  Internet2 project is initiated by 34 universities
 
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Trello%201.png?raw=true)
+1996 – Internet Service Providers begin appearing such as Sprint and MCI.
 
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/User%20Story(Trello).png?raw=true)
+1996 – Nokia releases first cell phone with internet access.
 
+1997- (Arin) is established to handle administration and registration of IP numbers, now handled by Network Solutions (IinterNic)
 
-### Communication
+1998- Netscape releases source code for Navigator.
 
-Throughout the development process communication was cruicial, especially when dealing with the editing of linked files and elements. Slack was used to make this process easier and streamline communication.
+1998-Internet Corporation for Assigned Names and Numbers (ICANN) created to be able to oversee a number of Internet-related tasks
 
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Slack%20Use%201.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Slack%20Use%202.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Slack%20use%203.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/slack%20use%204.png?raw=true)
+1999 – A wireless technology called 802.11b, more commonly referred to as Wi-Fi, is standardized.
 
-#### Flowchart
+2000- The dot com bubble bursts, numerically, on March 10, 2000, when the technology heavy NASDAQ composite index peaked at 5,048.62
 
-* As development progressed and we had to alter our plan, we also updated the flowchart. 
-* Below you can find the iterations of the flowchart in order.
+2001 – Blackberry releases first internet cell phone in the United States.
 
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Flowchart%20iteration%201.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Flowchart%20iteration%202.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Flowchart%20iteration%203.png?raw=true
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Flowchart%20iteration%204.png?raw=true)
+2001  The spread of P2P file sharing across the Internet
 
-#### Commenting
+2002 -Internet2 now has 200 university, 60 corporate and 40 affiliate members
 
-* To keep the code clean and readable we have created blocks of comments above each method relevent to the method and its contents.
-* Examples of commenting:
+2003- The French Ministry of Culture bans the use of the word “e-mail” by government ministries, and adopts the use of the more French sounding “courriel”
 
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Commting%20Example%202.png?raw=true)
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Commting%20Example1%20.png?raw=true)
+2004  The Term Web 2.0 rises in popularity when O’Reilly and MediaLive host the first Web 2.0 conference.
 
-#### Gems:
-* Colorize:
-* * The desire to make the application more visualy appealing led us to choose this gem. 
-* * Link to github page can be found below.
+2004- Mydoom, the fastest ever spreading email computer worm is released. Estimated 1 in 12 emails are infected.
 
-* TTY:
-* * Planned addition: To use and replace all input and menus with iteractive selection
+2005- Estonia offers Internet Voting nationally for local elections
 
-#### Testing examples
-* For testing we have used 'p' statements to print the raw value of variables and input. Example below:
+2005-Youtube launches
 
-![alt text](https://github.com/leahhou/Goalnut/blob/master/terminal_app_screens/Testing_example1.png?raw=true)
+2006- There are an estimated 92 million websites online
 
+2006  Zimbabwe’s internet access is almost completely cut off after international satellite communications provider Intelsat cuts service for non-payment
 
-##### Resources
-* colorize github - https://github.com/fazibear/colorize
-* Excel checklist: - https://github.com/leahhou/Goalnut/blob/master/docs/Criterias%20Reassignment.xlsx
-* Pseudo code - https://github.com/leahhou/Goalnut/blob/master/docs/Pseudo_code.txt
+2006- Internet2 announced a partnership with Level 3 Communications to launch a brand new nationwide network, boosting its capacity from 10Gbps to 100Gbps
+
+2007- Internet2 officially retires Abilene and now refers to its new, higher capacity network as the Internet2 Network
+
+2008- Google index reaches 1 Trillion URLs
+
+2008  NASA successfully tests the first deep space communications network modeled on the Internet. Using software called Disruption-Tolerant Networking, or DTN, dozens of space images are transmitted to and from a NASA science spacecraft located about more than 32 million kilometers from Earth
+
+2009  ICANN gains autonomy from the U.S government
+
+2010- Facebook announces in February that it has 400 million active users.
+
+2010  The U.S House of Representatives passes the Cybersecurity Enhancement Act (H.R. 4061)
+
+2012 – A major online protest shook up U.S. Congressional support for two anti-Web piracy bills – the Stop Online Piracy Act in the House and the Protect IP Act in the Senate. Many in the tech industry are concerned that the bills will give media companies too much power to shut down websites.
 
 
 
-
+# Relationship between domain, web servers, DNS and web browsers
+# One Contribution of internet development
 
 
 

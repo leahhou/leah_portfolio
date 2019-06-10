@@ -340,7 +340,7 @@ h4 {
   text-decoration: none;
 }
 .card a:hover {
-  transform: translate(-5px, -10px);
+  transform: translate(-5px, -5px);
 }
 
 .card .project_bg {

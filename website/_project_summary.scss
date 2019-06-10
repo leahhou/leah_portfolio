@@ -43,7 +43,7 @@ h4 {
     text-decoration-line: none;
     text-decoration: none;
     &:hover {
-        transform: translate(-5px, -5px);
+        transform: translate(-1px, -1px);
       }
 }
 .card .project_bg {
@@ -78,13 +78,13 @@ h4 {
 }
 @media screen and (min-width:700px) {
     h2 {
-        font-size: 78px;
+        font-size: 70px;
     }
     .card .card_title_1 {
         margin-top: -80px;
     }
     .card {
-        width: 55%;
+        width: 50%;
         height: 100%;
     }
     // .card .project_bg {
@@ -98,6 +98,6 @@ h4 {
 }
 @media screen and (min-width:1000px) {
     h2 {
-        font-size: 80px;
+        font-size: 75px;
     }
 }
